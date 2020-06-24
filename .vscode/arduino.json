@@ -1,0 +1,21 @@
+{
+    "sketch": "TeensyBoom\\TeensyBoom.ino",
+    "configurations": [
+        {
+            "name": "Arduino",
+            "includePath": [
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4,
+    "port": "COM4",
+    "board": "arduino:avr:uno",
+    "programmer": "AVR ISP",
+    "output": "../build"
+}
